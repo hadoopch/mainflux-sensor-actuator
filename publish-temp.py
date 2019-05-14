@@ -5,7 +5,7 @@ import paho.mqtt.client as mqtt
 import random
 
 #Some Mainflux related variables
-broker_address = "53.252.161.120"
+broker_address = "192.168.0.120"
 broker_port=1883
 thing_id = "922ad39f-fcb2-426f-9651-fbde55ce6cc9"
 thing_key = "2fbbeb08-eefe-4308-b09c-fa94907a6b28"
