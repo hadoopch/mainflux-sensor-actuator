@@ -14,7 +14,7 @@ GPIO.setup(PIN_RED,GPIO.OUT)
 GPIO.setup(PIN_GREEN,GPIO.OUT)
 
 broker_address = "53.252.161.120"
-broker_port=1884
+broker_port=1883
 #Led
 thing_id = "48ceccff-1140-44cc-8522-a1890ab42958"
 thing_key = "028606bf-96fb-4485-a70b-f9ea726599dc"
